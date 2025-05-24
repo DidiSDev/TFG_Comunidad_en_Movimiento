@@ -141,8 +141,25 @@ flutter pub get
 5. **Entrenar el modelo de IA** (opcional)
 ```bash
 cd ml_pipeline
+
+# Crear entorno virtual
+python -m venv venv
+venv\Scripts\activate  # Windows
+# source venv/bin/activate  # Linux/Mac
+
+# Instalar dependencias
 pip install -r requirements.txt
+
+# 1. Generar el mapeo de zonas
+python generar_zona_mapping.py
+
+# 2. Generar la densidad de zonas
+python generar_zona_density.py
+
+# 3. Generar el CSV con los datos de incidencias
 python generar_csv_incidencias.py
+
+# 4. Entrenar el modelo
 python entrenar_modelo.py
 ```
 
@@ -240,7 +257,7 @@ comunidad_en_movimiento/
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👥 Autores
+## 👥 Autor
 
 - **Diego Díaz Senovilla** - *Desarrollo inicial* - [DidiSDev](https://github.com/DidiSDev)
 
