@@ -238,9 +238,7 @@ comunidad_en_movimiento/
 - **Validación**: 5-fold cross-validation
 
 ## 🤝 Contribuir
-
 ¡Las contribuciones son bienvenidas! Por favor, sigue estos pasos:
-
 1. Fork el proyecto
 2. Crea tu rama de características (`git checkout -b feature/AmazingFeature`)
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
@@ -254,22 +252,52 @@ comunidad_en_movimiento/
 - Asegúrate de que el linter pasa sin errores
 
 ## 📄 Licencia
-
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 👥 Autor
-
 - **Diego Díaz Senovilla** - *Desarrollo inicial* - [DidiSDev](https://github.com/DidiSDev)
 
 ## 🙏 Agradecimientos
-
 - A la comunidad de Flutter por las librerías open source
 - OpenStreetMap y colaboradores por los datos geográficos
 - Firebase por la infraestructura backend
 - A todos los usuarios que reportan incidencias y mejoran la accesibilidad urbana
 
+## 📸 Capturas de Pantalla
+
+### Pantalla Principal
+<p align="center">
+  ![Principal](https://github.com/user-attachments/assets/8e275185-6a93-4bd5-a32c-3c262cf320d7)
+
+</p>
+
+### Navegación y Mapas
+<p align="center">
+  ![mapa1](https://github.com/user-attachments/assets/054036bb-da75-4560-9a3c-dafbc6d0d985)
+![Evitar escaleras](https://github.com/user-attachments/assets/ff64edaa-fe95-4d4e-aaa4-25f3fee4a150)
+
+</p>
+
+### Inteligencia Artificial
+<p align="center">
+  ![agente1](https://github.com/user-attachments/assets/0ef5696b-e322-4270-a554-3cef9fdff915)
+![agente2](https://github.com/user-attachments/assets/dcb57038-f2e5-41e8-af23-df027e77c667)
+![IA1](https://github.com/user-attachments/assets/e04fb982-1b51-44d2-919e-665fcb769b85)
+![IA2](https://github.com/user-attachments/assets/424ec733-1f26-463c-85a9-c4913db8d62a)
+
+</p>
+
+### Características Adicionales
+<p align="center">
+  ![Streetview2](https://github.com/user-attachments/assets/d9611d9a-596f-4ec2-8de5-ae9b9d0337c2)
+  
+![VERDE pantalla principal](https://github.com/user-attachments/assets/50bb5500-357d-48e9-ba91-c81db1c23bc2)
+![Incidencia](https://github.com/user-attachments/assets/1bf9b168-736f-423c-aeb8-f127adb156cc)
+
+</p>
+
 ---
 
 <p align="center">
-  Hecho con ❤️ para una ciudad más accesible
+  <sub>Desarrollado con ❤️ para hacer las ciudades más accesibles</sub>
 </p>
