@@ -1,0 +1,63 @@
+name: comunidad_en_movimiento
+description: "Proyecto Comunidad en movimiento"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.5.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^3.8.1
+  firebase_auth: ^5.3.4
+  cloud_firestore: ^5.5.0
+  geolocator: ^13.0.2
+  flutter_map: ^7.0.2
+  shared_preferences: ^2.1.1
+  flutter_secure_storage: ^9.2.2
+  latlong2: ^0.9.1
+  http: ^1.2.2
+  flutter_local_notifications: ^18.0.1
+  flutter_dotenv: ^5.0.2
+  cupertino_icons: ^1.0.8
+  geocoding: ^3.0.0
+  flutter_tts: ^4.2.0
+  firebase_messaging: ^15.1.6
+  tflite_flutter: ^0.11.0
+  flutter_svg: ^2.0.16
+  intl: ^0.19.0
+  flutter_localizations:
+    sdk: flutter
+  webview_flutter: ^4.2.1
+  flutter_map_animations: ^0.8.0
+  flutter_compass: ^0.8.1
+
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - lib/assets/modelos/modelo_ia.tflite
+    - lib/assets/modelos/label_encoder_superficie.pkl
+    - assets/zona_mapping.json
+    - assets/zona_density.json
+    - assets/scaler_params.json
+
+
+flutter_icons:
+  android: "launcher_icon"  # Nombre del icono
+  ios: true  # iOS
+  image_path: "assets/imagen.png"  # Ruta
+  min_sdk_android: 21  
+  remove_alpha_ios: true  # Elimina transparencia para iOS si es necesario

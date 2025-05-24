@@ -1,0 +1,11 @@
+ml_pipeline/venv/
+ml_pipeline/serviceAccountKey.json
+**/__pycache__/
+*.pyc
+.env
+*.log
+.DS_Store
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies

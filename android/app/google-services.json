@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302631298203",
+    "project_id": "comunidad-en-movimiento",
+    "storage_bucket": "comunidad-en-movimiento.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302631298203:android:9a4070521bda44d175523e",
+        "android_client_info": {
+          "package_name": "com.didisdev.comunidad_en_movimiento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh_qdGdcOMsv_JyULUiKaUHxM2Ogs0bT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
