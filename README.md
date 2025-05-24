@@ -37,7 +37,7 @@
   - Día de la semana y mes
   - Densidad de incidencias históricas
   - Proximidad a puntos de interés
-- **Análisis en tiempo real**: Evaluación de rutas con hasta 20 segmentos analizados
+- **Análisis en tiempo real**: Evaluación de rutas con hasta 20 sub-segmentos analizados
 - **Aprendizaje continuo**: El modelo mejora con los datos de la comunidad
 
 ### 👥 Comunidad Colaborativa
