@@ -267,12 +267,14 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ### Pantalla Principal
 <p align="center">
+  
   ![Principal](https://github.com/user-attachments/assets/8e275185-6a93-4bd5-a32c-3c262cf320d7)
 
 </p>
 
 ### Navegación y Mapas
 <p align="center">
+  
   ![mapa1](https://github.com/user-attachments/assets/054036bb-da75-4560-9a3c-dafbc6d0d985)
 ![Evitar escaleras](https://github.com/user-attachments/assets/ff64edaa-fe95-4d4e-aaa4-25f3fee4a150)
 
@@ -280,7 +282,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ### Inteligencia Artificial
 <p align="center">
-  ![agente1](https://github.com/user-attachments/assets/0ef5696b-e322-4270-a554-3cef9fdff915)
+  
+![agente1](https://github.com/user-attachments/assets/0ef5696b-e322-4270-a554-3cef9fdff915)
 ![agente2](https://github.com/user-attachments/assets/dcb57038-f2e5-41e8-af23-df027e77c667)
 ![IA1](https://github.com/user-attachments/assets/e04fb982-1b51-44d2-919e-665fcb769b85)
 ![IA2](https://github.com/user-attachments/assets/424ec733-1f26-463c-85a9-c4913db8d62a)
@@ -289,8 +292,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 ### Características Adicionales
 <p align="center">
-  ![Streetview2](https://github.com/user-attachments/assets/d9611d9a-596f-4ec2-8de5-ae9b9d0337c2)
   
+![Streetview2](https://github.com/user-attachments/assets/d9611d9a-596f-4ec2-8de5-ae9b9d0337c2)
 ![VERDE pantalla principal](https://github.com/user-attachments/assets/50bb5500-357d-48e9-ba91-c81db1c23bc2)
 ![Incidencia](https://github.com/user-attachments/assets/1bf9b168-736f-423c-aeb8-f127adb156cc)
 
